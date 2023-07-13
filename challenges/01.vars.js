@@ -1,5 +1,5 @@
-let firstName = "Alex",
-  last_name = "Pastukhov";
+let firstName = "Steve",
+	last_name = "McStevey";
 // firstName = "Alex";
 // last_name = "Pastukhov";
 
